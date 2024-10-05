@@ -6,5 +6,5 @@
 # Estos ejercicios NO pretenden ser una "regla" que haya que seguir al pie de la letra. Tan sólo SON un GUIÓN.
 # TODOS los consejos, sugerencias, anotaciones, indicaciones, críticas (siempre que sean CONSTRUCTIVAS), comentarios, etc son y serán BIENVENIDOS.
 <p align = "center">
-  <a href="mailto:loquelojonove1975@gmail.com" target="_blank" title="Email" rel="noopener"><img src="buzon de sugerencias.jfif" title="Email"></i></a>
+  <a href="mailto:loquelojonove1975@gmail.com" target="_blank" rel = "noopener noreferrer" title="Email" rel="noopener"><img src="buzon de sugerencias.jfif" title="Email"></i></a>
 </p>
